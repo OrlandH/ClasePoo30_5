@@ -1,0 +1,29 @@
+Clases
+Son una clasificacion que damos a cierto grupo de objetos que comparten atributos
+
+Objeto
+Tambien llamados instancias, son las variables que estan definidas por atributos
+
+Metodo
+Es como un objeto se diferencia o puede realizar una accion determinada
+
+Atributo
+Son variable que definen caracteristicas de cada objeto
+
+Setters 
+Son variables o funciones con las que podemos determinar los atributos de los objetos
+
+Getters 
+Son variables o funciones con las que podemos obtener los atributos de los objetos
+
+
+Puntero
+Es una direccion de memoria 
+
+Constructor
+Es una clase padre que almacena los tipos de datos de una forma que no ocupen mucho espacio en la memoria
+
+GitHub
+Herramienta que guarda los proyectos a base de raices y una raiz padre para poder revisar y monitoriar los cambios.
+
+Cambio numero 1
